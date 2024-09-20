@@ -1,0 +1,39 @@
+
+body{
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    font-family: Arial;
+
+}
+
+.container{
+    width: 1920px;
+    height: 1024px;  
+    text-align: center;
+    margin-top: 60px;
+}
+
+a{
+    font-weight: 300px;
+    font-size: 24px;
+    margin-right: 30px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 22px;
+    width: 243px;
+    height: 50px;
+    text-decoration: none;
+    padding: 10px 66px;
+}
+
+a:hover{
+    color: black;
+    background-color: #F1D4B7;
+}
+
+h1{
+    font-size: 128px;
+    letter-spacing: 0.25em;
+    color: #fff;
+    margin-top: 760px;
+}
